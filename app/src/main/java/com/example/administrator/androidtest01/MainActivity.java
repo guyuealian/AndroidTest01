@@ -33,7 +33,6 @@ public class MainActivity extends Activity {
         // 为文本框注册上下文菜单
         registerForContextMenu(txt);
     }
-
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflator = new MenuInflater(this);
