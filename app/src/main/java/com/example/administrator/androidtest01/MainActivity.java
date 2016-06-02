@@ -42,6 +42,7 @@ public class MainActivity extends Activity {
         return super.onCreateOptionsMenu(menu);
     }
 
+
     // 创建上下文菜单时触发该方法
     @Override
     public void onCreateContextMenu(ContextMenu menu, View source,
